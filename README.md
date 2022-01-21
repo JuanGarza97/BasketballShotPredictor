@@ -1,4 +1,5 @@
-Predict a basketball shot using OpenCv and Polynomial Regression
+# BASKETBALL SHOT PREDICTOR
+<p>Predict a basketball shot using <b>OpenCv</b> and <b>Polynomial Regression</b>
 
 Sample output:
 
